@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="algs4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jar/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jar/stdlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jar/stdlib.jar!/" />
+    </SOURCES>
+  </library>
+</component>
